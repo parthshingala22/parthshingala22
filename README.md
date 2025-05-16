@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Parth Shingala</h1>
-<h3 align="center">ML enthusiast and data visualization explorer</h3>
+<h3 align="center">ML and DL enthusiast and data visualization explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthshingala22&label=Profile%20views&color=0e75b6&style=flat" alt="parthshingala22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthshingala22" alt="parthshingala22" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning ,Data Visualization**
+- 🌱 I’m currently learning **Machine Learning ,Data Visualization ,Deep Learning**
 
-- 💬 Ask me about **Machine Learning ,Data Visualization**
+- 💬 Ask me about **Machine Learning ,Data Visualization ,Power bi**
 
 - 📫 How to reach me **parthshingala22@gmail.com**
 
